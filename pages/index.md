@@ -131,7 +131,7 @@ layout: default
     <hr class="hr-light">
     <section class="info-block">
       <div class="description">
-        <h2>Build your own look</h2>
+        <h2>Build your own look.</h2>
         <p class="copy">
           We think our templates are great, but you can always use completely custom designs.
         </p>
